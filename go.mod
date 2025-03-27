@@ -1,4 +1,4 @@
-module github.com/twmb/franz-go
+module gitlab.houtai.io/dewu.du/franz-go
 
 go 1.21
 
